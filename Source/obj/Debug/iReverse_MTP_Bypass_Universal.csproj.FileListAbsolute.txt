@@ -1,0 +1,11 @@
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\bin\Debug\iReverse_MTP_Bypass_Universal.exe.config
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\bin\Debug\iReverse_MTP_Bypass_Universal.exe
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\bin\Debug\iReverse_MTP_Bypass_Universal.pdb
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\bin\Debug\iReverse_MTP_Bypass_Universal.xml
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.csproj.AssemblyReference.cache
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.Main.resources
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.Properties.Resources.resources
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.csproj.GenerateResource.cache
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.csproj.CoreCompileInputs.cache
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.exe
+D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iReverse_MTP_Bypass_Universal_V2.0", "Source\iReverse_MTP_Bypass_Universal_V2.0.csproj", "{6F643D59-21A5-4EF0-84CE-990D2CADD80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F643D59-21A5-4EF0-84CE-990D2CADD80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F643D59-21A5-4EF0-84CE-990D2CADD80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F643D59-21A5-4EF0-84CE-990D2CADD80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F643D59-21A5-4EF0-84CE-990D2CADD80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88B227D-C628-4D1F-A24E-F5489A663378}
+	EndGlobalSection
+EndGlobal

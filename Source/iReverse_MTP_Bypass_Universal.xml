@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>iReverse_MTP_Bypass_Universal</name>
+    </assembly>
+    <members>
+        <member name="T:iReverse_MTP_Bypass_Universal.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_libusb_1_0_x86">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_libusb0">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_libusb0_sys">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_libusb0_x86">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_libusbK">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_libusbK_sys">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_libusbK_x86">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_WdfCoInstaller01009">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_WdfCoInstaller01011">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.amd64_winusbcoinstaller2">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.cat_SAMSUNG">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.cat_SAMSUNG_Android">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.cyggcc_s_1">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.cyggcs_s_1">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.cygusb_1_0">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.cygwin1">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.iconireverse">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.install_x64">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.install_x86">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.linux_adk">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.SAMSUNG">
+             <summary>
+               Looks up a localized string similar to ; SAMSUNG.inf
+            ; Copyright (c) 2010-2016 Pete Batard &lt;pete@akeo.ie&gt; (GNU LGPL)
+            [Strings]
+            DeviceName = &quot;SAMSUNG&quot;
+            VendorName = &quot;Samsung Electronics Co., Ltd&quot;
+            SourceName = &quot;SAMSUNG Install Disk&quot;
+            DeviceID   = &quot;#DeviceID#&quot;
+            DeviceGUID = &quot;{f72fe0d4-cbcb-407d-8814-9ed673d0dd6b}&quot;
+            
+            [Version]
+            Signature   = &quot;$Windows NT$&quot;
+            Class       = &quot;USBDevice&quot;
+            ClassGuid   = {88bae032-5a81-49f0-bc3d-a4ff138216d6}
+            Provider    = &quot;libwdi&quot;
+            CatalogFile = SAMSUNG.cat
+            DriverVer   = 08/09/2018, 6.1.7600.16385
+            
+            [ClassInstall3 [rest of string was truncated]&quot;;.
+             </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.SAMSUNG_Android">
+             <summary>
+               Looks up a localized string similar to ; Copyright (c) 2011 libusbK (GNU LGPL)
+            ;
+            ; Module Name: SAMSUNG_Android.inf
+            ; Description: Installation inf for SAMSUNG_Android device.
+            ;
+            ; THIS CODE AND INFORMATION IS PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY OF ANY
+            ; KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+            ; IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR
+            ; PURPOSE.
+            
+            [Strings]
+            DeviceName = &quot;SAMSUNG_Android&quot;
+            VendorName = &quot;Samsung Electronics Co., Ltd&quot;
+            SourceName = &quot;SAMSUNG_Android Install Disk&quot;
+            DeviceID   = &quot;#Dev [rest of string was truncated]&quot;;.
+             </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_libusb0">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_libusb0_sys">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_libusb0_x86">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_libusbK">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_libusbK_sys">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_WdfCoInstaller01009">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_WdfCoInstaller01011">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:iReverse_MTP_Bypass_Universal.Properties.Resources.x86_winusbcoinstaller2">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+    </members>
+</doc>
