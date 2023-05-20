@@ -9,3 +9,14 @@ D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypa
 D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal_V2.0.csproj.CoreCompileInputs.cache
 D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.exe
 D:\Data Pengguna\Hadi\Dekstop\c#\iReverse_MTP_Bypass_Universal\iReverse_MTP_Bypass_Universal\obj\Debug\iReverse_MTP_Bypass_Universal.pdb
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\bin\Debug\iReverse_MTP_Bypass_Universal.exe.config
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\bin\Debug\iReverse_MTP_Bypass_Universal.exe
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\bin\Debug\iReverse_MTP_Bypass_Universal.pdb
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\bin\Debug\iReverse_MTP_Bypass_Universal.xml
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\obj\Debug\iReverse_MTP_Bypass_Universal_V2.0.csproj.AssemblyReference.cache
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\obj\Debug\iReverse_MTP_Bypass_Universal.Main.resources
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\obj\Debug\iReverse_MTP_Bypass_Universal.Properties.Resources.resources
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\obj\Debug\iReverse_MTP_Bypass_Universal_V2.0.csproj.GenerateResource.cache
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\obj\Debug\iReverse_MTP_Bypass_Universal_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\obj\Debug\iReverse_MTP_Bypass_Universal.exe
+C:\Users\email\source\repos\iReverse_MTP_Bypass_Universal\CSharp\iReverse_MTP_Bypass_Universal\Source\obj\Debug\iReverse_MTP_Bypass_Universal.pdb
