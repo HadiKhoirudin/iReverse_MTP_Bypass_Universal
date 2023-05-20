@@ -101,20 +101,9 @@ namespace iReverse_MTP_Bypass_Universal
 				RichLogs("                       CAN'T FOUND MTP USB DEVICE                       ", Color.Crimson, true, true);
 				RichLogs("------------------------------------------------------------------------------------------------------------------------", Color.Black, false, true);
 
-				Delay(3);
+				Delay(5);
 
-				iReverse.RichLogs(" ", Color.Black, true, true);
-				iReverse.RichLogs("► Software  " + "\t" + ": ", Color.Black, true, false);
-				iReverse.RichLogs("MTP Bypass Universal", Color.Black, true, true);
-				iReverse.RichLogs("► License  " + "\t" + ": ", Color.Black, true, false);
-				iReverse.RichLogs("Freeware", Color.Black, true, true);
-				iReverse.RichLogs("► Developer  " + "\t" + ": ", Color.Black, true, false);
-				iReverse.RichLogs("Hadi Khoirudin, S.Kom", Color.Black, true, true);
-				iReverse.RichLogs("  ==================================================", Color.Black, true, true);
-				iReverse.RichLogs("► Websites  " + "\t" + ":  https://hadikhoirudin.github.io", Color.Black, true, true);
-				iReverse.RichLogs("  ==================================================", Color.Black, true, true);
-				iReverse.RichLogs("Note : ", Color.Black, false, true);
-				iReverse.RichLogs("Make sure no adb.exe proccess running before click start.", Color.Black, false, false);
+				Main.wellcome();
 
 				return false;
 			}

@@ -16,6 +16,23 @@ namespace iReverse_MTP_Bypass_Universal
 			SharedUI = this;
 		}
 
+		public static void wellcome()
+		{
+			iReverse.RichLogs(" ", Color.Black, true, true);
+			iReverse.RichLogs("► Software  " + "\t" + ": ", Color.Black, true, false);
+			iReverse.RichLogs("MTP Bypass Universal V2.0", Color.Black, true, true);
+			iReverse.RichLogs("► License  " + "\t" + ": ", Color.Black, true, false);
+			iReverse.RichLogs("Freeware", Color.Black, true, true);
+			iReverse.RichLogs("► Developer  " + "\t" + ": ", Color.Black, true, false);
+			iReverse.RichLogs("Hadi Khoirudin, S.Kom", Color.Black, true, true);
+			iReverse.RichLogs("  ==================================================", Color.Black, true, true);
+			iReverse.RichLogs("► Websites  " + "\t" + ":  https://hadikhoirudin.github.io", Color.Black, true, true);
+			iReverse.RichLogs("  ==================================================", Color.Black, true, true);
+			iReverse.RichLogs("Note : ", Color.Black, false, true);
+			iReverse.RichLogs("Make sure no adb.exe proccess running before click start.", Color.Black, false, false);
+
+		}
+
 		private void RichTextBox1_TextChanged(object sender, EventArgs e)
 		{
 			RichTextBox1.Invoke(new MethodInvoker(() =>
@@ -33,18 +50,7 @@ namespace iReverse_MTP_Bypass_Universal
 
 		private void Main_Load(object sender, EventArgs e)
 		{
-			iReverse.RichLogs("► Software  " + "\t" + ": ", Color.Black, true, false);
-			iReverse.RichLogs("MTP Bypass Universal", Color.Black, true, true);
-			iReverse.RichLogs("► License  " + "\t" + ": ", Color.Black, true, false);
-			iReverse.RichLogs("Freeware", Color.Black, true, true);
-			iReverse.RichLogs("► Developer  " + "\t" + ": ", Color.Black, true, false);
-			iReverse.RichLogs("Hadi Khoirudin, S.Kom", Color.Black, true, true);
-			iReverse.RichLogs("  ==================================================", Color.Black, true, true);
-			iReverse.RichLogs("► Websites  " + "\t" + ":  https://hadikhoirudin.github.io", Color.Black, true, true);
-			iReverse.RichLogs("  ==================================================", Color.Black, true, true);
-			iReverse.RichLogs("Note : ", Color.Black, false, true);
-			iReverse.RichLogs("Make sure no adb.exe proccess running before click start.", Color.Black, false, false);
-
+			wellcome();
 			RadioButtonYouTube.Enabled = false;
 			RadioButtonBrowser.Enabled = false;
 			RadioButtonSettings.Enabled = false;
@@ -231,18 +237,7 @@ namespace iReverse_MTP_Bypass_Universal
 
 				iReverse.Delay(3);
 
-				iReverse.RichLogs(" ", Color.Black, true, true);
-				iReverse.RichLogs("► Software  " + "\t" + ": ", Color.Black, true, false);
-				iReverse.RichLogs("MTP Bypass Universal", Color.Black, true, true);
-				iReverse.RichLogs("► License  " + "\t" + ": ", Color.Black, true, false);
-				iReverse.RichLogs("Freeware", Color.Black, true, true);
-				iReverse.RichLogs("► Developer  " + "\t" + ": ", Color.Black, true, false);
-				iReverse.RichLogs("Hadi Khoirudin, S.Kom", Color.Black, true, true);
-				iReverse.RichLogs("  ==================================================", Color.Black, true, true);
-				iReverse.RichLogs("► Websites  " + "\t" + ":  https://hadikhoirudin.github.io", Color.Black, true, true);
-				iReverse.RichLogs("  ==================================================", Color.Black, true, true);
-				iReverse.RichLogs("Note : ", Color.Black, false, true);
-				iReverse.RichLogs("Make sure no adb.exe proccess running before click start.", Color.Black, false, false);
+				wellcome();
 			}
 
 			iReverse.Driver("uninstall --inf=" + "\"" + iReverse.PackDir + "\\SAMSUNG_Android.inf" + "\"", BackgroundWorkerMTP, e);
